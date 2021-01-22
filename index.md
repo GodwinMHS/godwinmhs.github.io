@@ -10,8 +10,5 @@ The Problem of the Week competition takes place over the entire school year with
 # Prizes
 Each semester, prizes will be given out to the top two scorers. The highest scorer per semester will be bestowed the title of **Hecking Dope Mathperson** while the second-highest scorer per semester will be bestowed the title of **Big Boi Mathperson**. Each Hecking Dope Mathperson receives a $25 gift card to any place of their choosing while each Big Boi Mathperson receives a $15 gift card to any place of their choosing. No repeats are allowed - if you win once, you cannot win again.
 
-## Buying Clothes
-Shirts (and possibly hoodies) will be available for sale to the general public.
-
 # Support or Contact
 If you have any questions or feedback to give in relation to the Problem of the Week competition, feel free to email us at [godwinmhs@gmail.com](godwinmhs@gmail.com).
