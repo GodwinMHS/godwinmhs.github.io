@@ -1,4 +1,5 @@
 # Rankings
+
 |**1st Place**|**2nd Place**|
 |----|----|
 |N/A|N/A|
