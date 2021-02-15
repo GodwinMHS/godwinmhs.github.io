@@ -1,4 +1,4 @@
-# Problem (2/15-2/21) - 15 points
+# Problem (2/15-2/21) - 20 points
 <p align="center"><img src="https://raw.githubusercontent.com/GodwinMHS/godwinmhs.github.io/main/images/w13p_b.jpg?raw=true"/></p>
 
 # Rankings
