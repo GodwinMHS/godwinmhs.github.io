@@ -1,13 +1,11 @@
-# Problem (2/8-2/15) - 15 points
-<p align="center"><img src="https://raw.githubusercontent.com/GodwinMHS/godwinmhs.github.io/main/images/w12p_b.jpg?raw=true"/></p>
-
 # Rankings
 
 |**1st Place**|**2nd Place**|
 |----|----|
-|?|?|
+|Cameron Sharma|N/A|
 
-# Submissions
-Please only submit one solution per week.
+# Problem (2/8-2/14) - 15 points
+<p align="center"><img src="https://raw.githubusercontent.com/GodwinMHS/godwinmhs.github.io/main/images/w12p_b.jpg?raw=true"/></p>
 
-<p align="center"><a href="https://forms.gle/LkS4FUbpjBKcoiww6"><b>Submissions</b></a></p>
+# Solution
+<p align="center"><img src="https://raw.githubusercontent.com/GodwinMHS/godwinmhs.github.io/main/images/w12s_b.jpg?raw=true"/></p>
