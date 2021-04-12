@@ -8,4 +8,4 @@
 <p align="center"><img src="https://raw.githubusercontent.com/GodwinMHS/godwinmhs.github.io/main/images/w18p_b.jpg?raw=true"/></p>
 
 # Solution
-<p align="center"><img src="https://raw.githubusercontent.com/GodwinMHS/godwinmhs.github.io/main/images/w18s_b.jpg?raw=true"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/GodwinMHS/godwinmhs.github.io/main/images/w18p_s.jpg?raw=true"/></p>
