@@ -1,13 +1,8 @@
-# Problem (4/12-4/19) - 30 points
-<p align="center"><img src="https://raw.githubusercontent.com/GodwinMHS/godwinmhs.github.io/main/images/w19p_b.jpg?raw=true"/></p>
-
 # Rankings
 
 |**1st Place**|**2nd Place**|
 |----|----|
-|?|?|
+|Cameron Sharma|Mahin Atturu|
 
-# Submissions
-Please only submit one solution per week.
-
-<p align="center"><a href="https://forms.gle/LkS4FUbpjBKcoiww6"><b>Submissions</b></a></p>
+# Problem (4/12-4/26) - 30 points
+<p align="center"><img src="https://raw.githubusercontent.com/GodwinMHS/godwinmhs.github.io/main/images/w19s_b.jpg?raw=true"/></p>
