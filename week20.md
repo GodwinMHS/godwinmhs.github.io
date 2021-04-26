@@ -1,5 +1,5 @@
 # Problem (4/26-5/3) - 55 points
-<p align="center"><img src="https://raw.githubusercontent.com/GodwinMHS/godwinmhs.github.io/main/images/w20p_b.jpg?raw=true"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/GodwinMHS/godwinmhs.github.io/main/images/w20ep_b.jpg?raw=true"/></p>
 
 # Rankings
 
